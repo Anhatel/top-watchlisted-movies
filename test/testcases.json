@@ -1,0 +1,38 @@
+[
+  {
+    "userId": 15291,
+    "expected": [
+      "Schindler's List",
+      "The Dark Knight",
+      "The Lord of the Rings: The Return of the King",
+      "The Shawshank Redemption"
+    ]
+  },
+  {
+    "userId": 7001,
+    "expected": [
+      "The Shawshank Redemption",
+      "Schindler's List",
+      "The Dark Knight",
+      "The Godfather"
+    ]
+  },
+  {
+    "userId": 51417,
+    "expected": [
+      "Schindler's List",
+      "The Lord of the Rings: The Return of the King",
+      "Pulp Fiction",
+      "The Shawshank Redemption"
+    ]
+  },
+  {
+    "userId": 62289,
+    "expected": [
+      "Schindler's List",
+      "The Lord of the Rings: The Return of the King",
+      "Pulp Fiction",
+      "The Shawshank Redemption"
+    ]
+  }
+]
